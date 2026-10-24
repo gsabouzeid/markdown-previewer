@@ -1,0 +1,16 @@
+#editor {
+  display: block;
+  margin: auto auto 20px auto;
+}
+
+#preview {
+  border: solid black 1px;
+  width: 50%;
+  margin: auto;
+}
+
+#preview img {
+  display: block;
+  margin: auto;
+  max-width: 90%;
+}
